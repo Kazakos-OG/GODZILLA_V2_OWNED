@@ -1,0 +1,10 @@
+{
+    "webhookUrl": "YOURWEHBOOK",
+    "framework": "none",
+    "commandName": "screenshot",
+    "commandPermission": "command.screenshot",
+    "screenshotOptions": {
+        "encoding": "jpg",
+        "quality": 0.92
+    }
+}
