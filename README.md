@@ -1,0 +1,3 @@
+# GODZILLA_V2_OWNED
+full Decrypted
+EZZZZZZZZZZZZ
